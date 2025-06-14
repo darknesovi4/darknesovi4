@@ -35,4 +35,5 @@
 ![Apache](https://img.shields.io/badge/apache-D22128?style=flat&logo=apache&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darknesovi4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=darknesovi4&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
+
