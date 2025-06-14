@@ -37,3 +37,4 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darknesovi4&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
 
+![DevOps Certified](https://img.shields.io/badge/DevOps-Certified-blueviolet?style=for-the-badge&logo=linuxfoundation&logoColor=white)
